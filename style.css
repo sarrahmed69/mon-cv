@@ -25,6 +25,7 @@ body {
     border-radius: 10px;
     overflow: hidden;
     gap: 25px;
+    padding: 5px;
 
 }
 .container .left-side{
